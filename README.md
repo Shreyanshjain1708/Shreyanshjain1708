@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shreyanshjain1708
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Analytics & SQL
+- 👋 Hi, I’m Shreyansh Jain
+- 👀 I’m interested in Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently learning Deep Learning with Tensorflow
+- 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me 17shreyanshj@gmail.com
 
 <!---
